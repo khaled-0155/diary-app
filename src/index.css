@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+* {
+  letter-spacing: 1px;
+}
+
+a,
+button {
+  cursor: pointer;
+}
