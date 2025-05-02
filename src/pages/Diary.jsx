@@ -36,7 +36,7 @@ export default function Diary() {
       description:
         "Document trees, fungi, and the creatures that depend on woodland habitats.",
       icon: <FaTree className="text-4xl text-green-700 mb-4 mx-auto" />,
-      path: "diary/forest-and-woodland",
+      path: "/diary/forest-and-woodland",
     },
     {
       title: "Wildlife Conservation",
